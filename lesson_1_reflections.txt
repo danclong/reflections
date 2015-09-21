@@ -1,0 +1,79 @@
+Q. How did viewing a diff between two versions of a file 
+help you see the bug that was introduced?
+
+A. Viewing a diff is much easier as it compares two 
+files and shows what has changed between the two. 
+Not using this would result in having to check the 
+two files manually!!!!
+
+------------------------
+
+Q. How could having easy access to the entire history of 
+a file make you a more efficient programmer in the long 
+term?
+
+A. Having easy access to the history of a file means 
+that any previous version of a file can be reverted back 
+to if needed. You can see what updates have been made 
+which makes working in a team easier, as you can see what 
+updates have been made.
+
+------------------------
+
+Q. What do you think are the pros and cons of manually 
+choosing when to create a commit, like you do in Git, 
+vs having versions automatically saved, like Google Docs 
+does?
+
+A. When you make the decision to commit yourself, you can
+logically decide when is best to make the commit (as long 
+as you know the prinicples). Letting an automated service 
+decide when to commit, will cause problems like there being 
+too many commits within one 'change' - this makes it a 
+nightmare to go back through to check when a certain change 
+has taken place.
+
+------------------------
+
+Q. Why do you think some version control systems, like Git, 
+allow saving multiple files in one commit, while others, 
+like Google Docs, treat each file separately?
+
+A. Google docs focuses on singular documents which are 
+stand-alone and don't documents require anything else to 
+work with. Git is very user-led so you decide to 'save' 
+multiple files in one commit as they can be linked by what 
+working is currently being completed. When working back 
+through, it's good to see which changes have affected more 
+than one file.
+
+------------------------
+
+Q. How can you use the commands git log and git diff to 
+view the history of files?
+
+A. You can use Git log to show a list of commits. Seeing 
+these (and hoping the commit message is useful), you can 
+find a specific commit id. This id is useful to compare 
+two commits, using Git diff. You can then see what has 
+changed between two commits, thus narrowing down your 
+search, which is probaly to fix a problem.
+
+------------------------
+
+Q. How might using version control make you more 
+confident to make changes that could break something?
+
+A. If you can always revert back to previous working 
+version of your project, then it doesn't matter too 
+much if you break it - as you can always go back!
+
+------------------------
+
+Q. Now that you have your workspace set up, what do you 
+want to try using Git for?
+
+A. I want to try and use all of the available Git 
+commands to gain a better understanding (so not to rely 
+on sourcetree all the time - i'll be able to do things 
+in terminal).

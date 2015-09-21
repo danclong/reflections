@@ -1,0 +1,15 @@
+Q. What happens when you initialize a repository? Why do you need to do it?
+
+A. When you init' a repo, a .git folder is stored in the directory so that we
+know the directory is a valid git folder. We have to do this so that git knows
+to track the files within it (as long as you commit them).
+
+-------------
+
+Q. How is the staging area different from the working directory and the
+repository? What value do you think it offers?
+
+A. The staging area is 'half way' between the working directory and the repo.
+Files are added to the staging area before being commited to the repo. Using
+the stagin area allows you to manage what gets commited - so to split your
+files logically.
