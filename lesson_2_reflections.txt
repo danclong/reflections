@@ -13,3 +13,12 @@ A. The staging area is 'half way' between the working directory and the repo.
 Files are added to the staging area before being commited to the repo. Using
 the stagin area allows you to manage what gets commited - so to split your
 files logically.
+
+-------------
+
+Q. How can you use the staging area to make sure you have one commit per
+logical change?
+
+A. You can use the staging to your advantage by just adding the files in a
+specific change, which can then be commited. These will keep the commits
+sepearate and easier to debug if you need to go back through them.
