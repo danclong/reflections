@@ -48,3 +48,11 @@ it in the diagram the way we do?
 A. The result is that the changes in the coins branch get merged in to the 
 Master branch. Changes have been developed to one side, without affecting
 Master and then merged in seamlessly.
+
+----------------
+
+Q. What are the pros and cons of Git’s automatic merging vs. always doing 
+merges manually?
+
+A. Git can speed up merging when there are no conflicts - great. Git can't
+resolve a conflict as well as you can manually!
