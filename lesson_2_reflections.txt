@@ -31,3 +31,11 @@ history organized? How would branches help?
 A. If you're making a big change to a website, then it's best to keep this
 seperate from the master branch. You can then safely work on your new
 piece of functionality whilst leaving master in tact.
+
+------------------
+
+Q. How do the diagrams help you visualize the branch structure?
+
+A. Drawing out the structure allows you to see where you're working in
+relation to other branches. This is useful to know and see what commits are
+available to you, if needed.
