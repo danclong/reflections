@@ -22,3 +22,12 @@ logical change?
 A. You can use the staging to your advantage by just adding the files in a
 specific change, which can then be commited. These will keep the commits
 sepearate and easier to debug if you need to go back through them.
+
+---------------
+
+Q. What are some situations when branches would be helpful in keeping your 
+history organized? How would branches help?
+
+A. If you're making a big change to a website, then it's best to keep this
+seperate from the master branch. You can then safely work on your new
+piece of functionality whilst leaving master in tact.
