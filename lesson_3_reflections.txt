@@ -34,3 +34,12 @@ easier, and what would be harder?
 A. It would be very hard. A lot of manual labour involved, talking, emails 
 etc. Finding conflicts would be difficult and working at the same time would
 almost be impossible.
+
+------------------
+
+Q. When would you want to make changes in a separate branch rather than 
+directly in master? What benefits does each approach have?
+
+A. When you're making a new feature which you want to test before merging
+straight in. You can leave the master branch in-tact, unaffected. You can test
+you're changes before finally merging them into master.
