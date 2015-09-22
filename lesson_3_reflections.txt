@@ -19,3 +19,9 @@ A. Fork - create a version of the repo to work from. doesn't affect the original
    Branch - create a branch to work on seperate to the 'master' branch
 
 ------------------
+
+Q. What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+A. If there is ever a problem with merging, it's useful to see the last known
+state.
